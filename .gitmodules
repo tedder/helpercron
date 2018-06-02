@@ -1,0 +1,15 @@
+[submodule "aws-release-notes-rss"]
+	path = aws-release-notes-rss
+	url = git@github.com:tedder/aws-release-notes-rss.git
+[submodule "buildone-forum-feed"]
+	path = buildone-forum-feed
+	url = git@github.com:tedder/buildone-forum-feed.git
+[submodule "crowdsupply-feed"]
+	path = crowdsupply-feed
+	url = git@github.com:tedder/crowdsupply-feed.git
+[submodule "google-plus-newsfeed"]
+	path = google-plus-newsfeed
+	url = git@github.com:tedder/google-plus-newsfeed.git
+[submodule "thingiverse-feed"]
+	path = thingiverse-feed
+	url = git@github.com:tedder/thingiverse-feed.git
