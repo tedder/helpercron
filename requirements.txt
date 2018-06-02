@@ -1,0 +1,10 @@
+PyRSS2Gen==1.1
+beautifulsoup4
+boto3>=1.4.8
+google-api-python-client
+google-auth
+google-auth-httplib2
+lxml
+pymysql
+python-dateutil>=2.3
+requests>=2.2.1
